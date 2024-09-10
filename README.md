@@ -1,4 +1,4 @@
-# Telling Stories with Data Portfolio
+# Telling Stories with Data Portfolio C1
 
 ## Assignment 1
 
