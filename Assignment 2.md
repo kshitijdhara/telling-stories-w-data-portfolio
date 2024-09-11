@@ -1,4 +1,9 @@
-## Assignment 1
+---
+title: Assignment 2
+layout: template
+filename: Assignment 2.md
+--- 
+## Assignment 2
 
 ### Name: Kshitij Dhara
 ### Andrew ID: kdhara
