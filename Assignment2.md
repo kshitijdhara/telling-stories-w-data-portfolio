@@ -1,8 +1,9 @@
 ---
-title: Assignment 2
+title: Assignment2
 layout: template
 filename: Assignment2.md
 --- 
+
 ## Assignment 2
 
 ### Name: Kshitij Dhara
