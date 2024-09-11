@@ -9,4 +9,5 @@ Hi, I am Kshitij, a Master's in Information Systems Management student here at H
 - Non-Technical: Formula 1, Soccer, Volleyball, Badminton, Motorsports
   
 --- 
-[Assignment 2](<Assignment 2.md>)
+
+[Assignment 2](Assignment2.md)

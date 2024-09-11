@@ -1,7 +1,7 @@
 ---
 title: Assignment 2
 layout: template
-filename: Assignment 2.md
+filename: Assignment2.md
 --- 
 ## Assignment 2
 
