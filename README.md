@@ -10,4 +10,6 @@ Hi, I am Kshitij, a Master's in Information Systems Management student here at H
   
 --- 
 
-[Assignment 2](Assignment2.md)
+- [Assignment 2](Assignment2.md)
+
+- [Assignment 3 & 4](Assignment3&4.md)
