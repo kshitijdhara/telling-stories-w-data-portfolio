@@ -22,24 +22,41 @@ I chose this particular data visualization because it represents an important pu
 
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile as the primary evaluation tool. Here's a detailed breakdown:
 
-Clarity: The data has regional labels hence the use of a geographpical map is logical which I like but what I don't is that it does not show the ratio to which the most used AI model compares to the other two.
-Precision: The use of stacked bar charts makes it difficult to compare values across regions. Precision scored a 4 since it's hard to interpret the differences between subregions accurately.
-Engagement: The visualization is static and lacks interactivity, so engagement was rated 3. Adding dynamic elements would allow users to better explore the data.
-Summary of Critique Insights:
-Strengths: The data visualization is well-sourced and structured, making it clear what the subject is.
-Weaknesses: The poor use of colors and chart types makes it harder to compare across different categories and regions.
-Overall, the Few Method helped me uncover areas of improvement but didn’t cover important aspects like interactivity.
-Comparison to Good Charts Method:
-Compared to Good Charts, Few's method is more focused on granular critiques like precision, while Good Charts emphasizes overall visual appeal and impact. Good Charts encourages creativity, but Few's method is more precise for evaluating each aspect of visualization.
+### Clarity
+
+- Data Encoding: The use of color intensity to represent the percentage of searches is clear and effective. It's visually intuitive and easy to interpret.
+- Chart Type: The bar chart is a simple and appropriate choice for comparing the interest in different AI tools across regions.
+- Labels and Legends: The labels and legends are clear and concise, aiding understanding.
+
+### Accuracy
+
+- Data Accuracy: Assuming the data is accurate, the visualization accurately reflects the search trends.
+- Scale: The scale seems appropriate for the data range.
+
+### Relevance
+
+- Message: The visualization effectively communicates the relative interest in Midjourney, Stable Diffusion, and DALL-E across different subregions.
+- Audience: The visualization is likely relevant to researchers, developers, and enthusiasts interested in AI art generation.
+
+### Aesthetics
+
+- Visual Appeal: The visualization is visually appealing, with a clean and modern design.
+- Color Palette: The color palette is visually distinct and helps differentiate the tools.
+
+### Efficiency
+
+- Ease of Understanding: The visualization is relatively easy to understand, even for those not familiar with data visualization.
+- Cognitive Load: The use of color intensity and simple chart type minimizes cognitive load.
+
 Link to Stephen Few's Google Spreadsheet (Google Form responses): [Insert link]
 
 ## Part 3: Redesign Sketches
 
-I created a wireframe of my initial redesign ideas. The focus was on:
+The focus for the initial redesign ideas was on:
 
-Changing the chart type: Replacing the geographical map with grouped bar chart or small multiples for better comparison.
-Improving color contrast: Introducing a new color scheme for better differentiation between categories.
-Adding interactivity: Users can click or hover over regions to see detailed breakdowns.
+- Changing the chart type: Replacing the geographical map with grouped bar chart or small multiples for better comparison.
+- Improving color contrast: Introducing a new color scheme for better differentiation between categories.
+- Adding interactivity: Users can click or hover over regions to see detailed breakdowns.
 
 <div class='tableauPlaceholder' id='viz1726693746021' style='position: relative'><noscript><a href='#'><img
                 alt='Assignment 3&amp;4 temp '
@@ -77,12 +94,12 @@ Adding interactivity: Users can click or hover over regions to see detailed brea
 User Feedback:
 I shared my redesign with two different individuals:
 
-Student, mid-20s:
-Feedback: Found the grouped bar chart much easier to interpret than the original stacked chart. However, they found the use of lighter colors confusing.
-Changes: Based on this feedback, I adjusted the color intensity for clearer visual differences.
-Adult, late 50s:
-Feedback: They struggled to identify the regions without labels. They also suggested adding more context to the visualization.
-Changes: I added state labels and a small legend to provide better context for each region.
+### Student (mid-20s):
+#### Feedback:
+Found the grouped bar chart much easier to interpret than the original stacked chart. However, they found the use of lighter colors confusing.
+#### Changes:
+Based on this feedback, I adjusted the color intensity for clearer visual differences.
+
 Feedback Summary:
 Common Themes: Both participants appreciated the change in chart type but asked for better labeling and clearer colors.
 Design Changes: I improved color contrast and added more descriptive labels, making the visualization easier to follow without an explanation.
