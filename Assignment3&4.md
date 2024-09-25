@@ -106,7 +106,7 @@ Found the grouped bar chart much easier to interpret than the original stacked c
 Found the grouped bar chart much easier to interpret than the original stacked chart. However, they found some issues that were confusing:
 - Grouping related data can help make the chart less straining on the eyes.
 - The chart is difficult to interpret visually, considering the distinct, contrasting colors to separate categories more clearly was not as helpful as intended and increased strain on the eyes.
-- 
+
 ### Changes:
 Based on this feedback, what I understood is that both participants appreciated the change in chart type but asked for better labeling and clearer colors which was less strenous on the eyes. I improved color contrast and added more descriptive labels, making the visualization easier to follow without an explanation.
 
