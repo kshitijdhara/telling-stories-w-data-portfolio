@@ -14,4 +14,6 @@ Hi, I am Kshitij, a Master's in Information Systems Management student here at H
 
 - [Assignment 3 & 4](Assignment3&4.md)
 
-- [Final Project](Final_project.md)
+- [Final Project Part 1](Final_project.md)
+
+- [Final Project Part 2](Final_project_Part2.md) 
