@@ -10,6 +10,7 @@ filename: Final_project_Part2.md
 
 ---
 ## Wirerames / Storyboards
+[Shothand Story link](https://preview.shorthand.com/AeYnmeJcNEMe7KOQ)
 #### Wireframe 1: Introduction and Overview
 ##### Title: "NYC's Baby Name Tapestry: Unraveling Cultural Threads (2011-2014)"
 - Text: "What's in a name? In New York City, it's a story of diversity, culture, and changing trends. Join us on a journey through the Big Apple's nurseries as we explore the fascinating world of baby names."
