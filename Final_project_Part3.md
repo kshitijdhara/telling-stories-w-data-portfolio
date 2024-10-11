@@ -3,7 +3,7 @@ title: Final_project_Part_3
 layout: template
 filename: Final_project_Part3.md
 ---
-## Final Project Part 2
+## Final Project Part 3
 
 ### Name: Kshitij Dhara
 ### Andrew ID: kdhara
